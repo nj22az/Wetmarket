@@ -1,0 +1,6 @@
+{
+  "name": "Kowloon Wet Market 3D",
+  "description": "An interactive 3D Asian wet market simulation built with Three.js, featuring authentic grocery and fruit stalls, realistic lighting with iconic red market lamps, and detailed interactive fruit assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
